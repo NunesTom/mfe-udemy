@@ -1,0 +1,21 @@
+{
+  "name": "web-application-project",
+  "version": "1.0.0",
+  "description": "A web application with authentication, main container, dashboard, and marketing components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start script specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "application",
+    "auth",
+    "dashboard",
+    "marketing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
